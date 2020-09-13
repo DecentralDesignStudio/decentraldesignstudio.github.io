@@ -9,6 +9,7 @@ font-size: 20px;
 }
 
 .lottie {
+ background-color: blue;
   width: 90vw;
   height: 50vh;
  display: flex;
