@@ -9,6 +9,8 @@ font-size: 20px;
 }
 
 .lottie {
+  width: 90vw;
+  height: 50vh;
  display: flex;
  justify-content: center;
 }
