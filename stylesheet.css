@@ -1,0 +1,131 @@
+body {
+background-color: black;
+padding: 30%;
+padding-top: 0%;
+font-family: Verdana, sans-serif;
+line-height: 1.4;
+}
+
+
+.lottie {
+ margin: auto;
+ display: flex;
+ justify-content: center;
+}
+
+.text {
+    margin: auto;
+    display: block;
+    padding: 15px;
+    color: white;
+    text-align: justify; 
+    font-size: 20px;
+
+    
+        animation: fadeIn ease 6s;
+        -webkit-animation: fadeIn ease 6s;
+        -moz-animation: fadeIn ease 6s;
+        -o-animation: fadeIn ease 6s;
+        -ms-animation: fadeIn ease 6s;
+      }
+      @keyframes fadeIn {
+        0% {
+          opacity:0;
+        }
+        
+        80% {
+          opacity:0;
+        }
+        100% {
+          opacity:1;
+        }
+      }
+      
+      @-moz-keyframes fadeIn {
+        0% {
+          opacity:0;
+        }
+        
+        80% {
+          opacity:0;
+        }
+        100% {
+          opacity:1;
+        }
+      }
+      
+      @-webkit-keyframes fadeIn {
+        0% {
+          opacity:0;
+        }
+        
+        80% {
+          opacity:0;
+        }
+        100% {
+          opacity:1;
+        }
+      }
+      
+      @-o-keyframes fadeIn {
+        0% {
+          opacity:0;
+        }
+        
+        80% {
+          opacity:0;
+        }
+        100% {
+          opacity:1;
+        }
+      }
+      
+      @-ms-keyframes fadeIn {
+        0% {
+          opacity:0;
+        }
+        
+        80% {
+          opacity:0;
+        }
+        100% {
+          opacity:1;
+        }
+
+    }
+
+@media only screen and (max-width: 920px) {
+      /* For mobile phones: */
+      body {
+    padding: 1%;
+    padding-top: 1%;
+    padding-bottom: 3%;
+      }
+    }
+
+.firstdiv {
+    border:white;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.seconddiv {
+    margin-top: 80px;
+
+}
+
+.thirddiv { 
+    margin-top: 80px;
+    margin-bottom: 100px;
+}
+
+.fourthdiv {
+
+    text-align: left; 
+    margin-bottom: 80px;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+}
